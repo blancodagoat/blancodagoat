@@ -1,5 +1,8 @@
 **blancodagoat** — Developer · Python · TypeScript · Web
+
 <div align="center">
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -13,9 +16,7 @@
 ![Blender](https://img.shields.io/badge/Blender-EA7600?style=flat&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-</div>
-
-<div align="center">
+### Projects
 
 [![localtasks](https://custom-icon-badges.demolab.com/badge/localtasks-ff6b6b?style=flat&logo=check)](https://github.com/blancodagoat/localtasks)
 [![focusflow](https://custom-icon-badges.demolab.com/badge/focusflow-4ecdc4?style=flat&logo=clock)](https://github.com/blancodagoat/focusflow)
@@ -23,12 +24,9 @@
 [![quotetrades](https://custom-icon-badges.demolab.com/badge/quotetrades-f9ca24?style=flat&logo=clipboard)](https://github.com/blancodagoat/quotetrades)
 [![freelanceflow](https://custom-icon-badges.demolab.com/badge/freelanceflow-6c5ce7?style=flat&logo=file-text)](https://github.com/blancodagoat/freelanceflow)
 
-</div>
-
-<div align="center">
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-blancodagoat-181717?style=flat&logo=github)](https://github.com/blancodagoat)
-[![Profile](https://img.shields.io/badge/Profile-visit-0969da?style=flat)](https://github.com/blancodagoat)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q668VS3)
 
 </div>
