@@ -1,14 +1,4 @@
-# █▀█ █▀█ █▀▄▀█ █▀▀ █▀▄▀█ █▀█ █▀▄ █▀
-# █▀▀ █▀▄ █░▀░█ ██▄ █░▀░█ █▄█ █▄▀ ▄█
-
 **blancodagoat** — Developer · Python · TypeScript · Web
-
-I build small tools, plugins, and web projects—from Blender addons and Discord client plugins to static sites.
-
----
-
-## ⚒️ Tech stack
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -25,10 +15,6 @@ I build small tools, plugins, and web projects—from Blender addons and Discord
 
 </div>
 
----
-
-## 📦 My projects
-
 <div align="center">
 
 [![localtasks](https://custom-icon-badges.demolab.com/badge/localtasks-ff6b6b?style=flat&logo=check)](https://github.com/blancodagoat/localtasks)
@@ -39,35 +25,6 @@ I build small tools, plugins, and web projects—from Blender addons and Discord
 
 </div>
 
----
-
-## 📦 Featured projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [localtasks](https://github.com/blancodagoat/localtasks) | Privacy-first offline-first task app - no account required | JS |
-| [focusflow](https://github.com/blancodagoat/focusflow) | ADHD-friendly productivity app - visual timeline, max 5 tasks/day | JS |
-| [syncsell](https://github.com/blancodagoat/syncsell) | Affordable cross-platform inventory sync for small sellers | JS |
-| [quotetrades](https://github.com/blancodagoat/quotetrades) | Simple lead-to-quote tool for trades | JS |
-| [freelanceflow](https://github.com/blancodagoat/freelanceflow) | Proposals to contracts to invoices for freelancers | JS |
-| [blender-sims4-geom](https://github.com/blancodagoat/blender-sims4-geom) | Blender addon for Sims 4 geometry | Python |
-| [viewMembersWithRole](https://github.com/blancodagoat/viewMembersWithRole) | Vencord plugin to view members by role | TypeScript |
-
----
-
-## 📊 Profile stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blancodagoat&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blancodagoat&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔗 Connect
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-blancodagoat-181717?style=flat&logo=github)](https://github.com/blancodagoat)
@@ -75,7 +32,3 @@ I build small tools, plugins, and web projects—from Blender addons and Discord
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q668VS3)
 
 </div>
-
----
-
-*README used as GitHub profile. Pinned repos and bio can be edited in your [profile settings](https://github.com/settings/profile).*
