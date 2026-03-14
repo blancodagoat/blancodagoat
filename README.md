@@ -16,18 +16,6 @@
 
 ---
 
-### Projects
-
-| Project | Description |
-|---------|-------------|
-| [localtasks](https://github.com/blancodagoat/localtasks) | Task management app |
-| [focusflow](https://github.com/blancodagoat/focusflow) | Productivity timer |
-| [syncsell](https://github.com/blancodagoat/syncsell) | Sales sync tool |
-| [quotetrades](https://github.com/blancodagoat/quotetrades) | Trading quotes |
-| [freelanceflow](https://github.com/blancodagoat/freelanceflow) | Freelance management |
-
----
-
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-blancodagoat-181717?style=flat&logo=github)](https://github.com/blancodagoat)
