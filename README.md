@@ -16,7 +16,4 @@
 
 ---
 
-### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-blancodagoat-181717?style=flat&logo=github)](https://github.com/blancodagoat)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q668VS3)
